@@ -54,7 +54,7 @@ Pull requests must pass CI under Linux and Windows environments set in with AppV
 
 Current test results are shown here:
 
-[Linux (Travis CI)](https://travis-ci.org/github/ros/console_bridge)
+[Linux (Travis CI)](https://travis-ci.org/github/Unity-Billal-mesloub/console_bridge)
 [Windows (Appveyor)](https://ci.appveyor.com/project/tfoote/console-bridge)
 
 ###  Documentation Policy [2.v]
@@ -65,7 +65,7 @@ All pull requests must resolve related documentation changes before merging.
 
 ### Feature Documentation [3.i]
 
-`libconsole-bridge-dev` lists its features in the README file of its GitHub repository, [here](https://github.com/ros/console_bridge/#features). Also its [wiki](http://wiki.ros.org/console_bridge) provides additional documentation over its usage.
+`libconsole-bridge-dev` lists its features in the README file of its GitHub repository, [here](https://github.com/Unity-Billal-mesloub/console_bridge/#features). Also its [wiki](http://wiki.ros.org/console_bridge) provides additional documentation over its usage.
 
 ### Public API Documentation [3.ii]
 
@@ -85,7 +85,7 @@ New source files added to this library will require having a copyright statement
 
 ### Feature Testing [4.i]
 
-`libconsole-bridge-dev` provides testing of its [features](https://github.com/ros/console_bridge/#features) under the [test folder](./test/).
+`libconsole-bridge-dev` provides testing of its [features](https://github.com/Unity-Billal-mesloub/console_bridge/#features) under the [test folder](./test/).
 
 ### Public API Testing [4.ii]
 
@@ -95,7 +95,7 @@ The tests aim to cover both typical usage and corner cases, but are quantified b
 
 Current test results are shown here:
 
-[Linux (Travis CI)](https://travis-ci.org/github/ros/console_bridge)
+[Linux (Travis CI)](https://travis-ci.org/github/Unity-Billal-mesloub/console_bridge)
 [Windows (Appveyor)](https://ci.appveyor.com/project/tfoote/console-bridge)
 
 ### Coverage [4.iii]
@@ -108,7 +108,7 @@ Current test results are shown here:
 
 ### Performance [4.iv]
 
-The performance tests of this package are located in the [vendored library](https://github.com/ros2/console_bridge_vendor/tree/master/test/benchmark). The most recent test results can be found [here](http://build.ros2.org/view/Rci/job/Rci__benchmark_ubuntu_focal_amd64/BenchmarkTable/).
+The performance tests of this package are located in the [vendored library](https://github.com/Unity-Billal-mesloub/console_bridge_vendor/tree/master/test/benchmark). The most recent test results can be found [here](http://build.ros2.org/view/Rci/job/Rci__benchmark_ubuntu_focal_amd64/BenchmarkTable/).
 
 `libconsole-bridge-dev` doe s not provide performance testing.
 
